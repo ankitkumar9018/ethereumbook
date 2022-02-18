@@ -1,0 +1,23 @@
+{
+   "id":2,
+   "attributes":[
+      {
+         "trait_type":"Type",
+         "value":"Insects"
+      },
+      {
+         "trait_type":"Special Effects",
+         "value":"None"
+      },
+      {
+         "trait_type":"Color",
+         "value":"All"
+      },
+      {
+         "trait_type":"tokenId",
+         "value":1
+      }
+   ],
+   "description":"this is a test NFT",
+   "image":"https://drive.google.com/uc?id=17vuwA9GDDgrb0dQsMyDqadh2YCd5oRo0"
+}
